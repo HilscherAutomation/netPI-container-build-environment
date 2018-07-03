@@ -1,5 +1,4 @@
 ## Docker Development Environment
-## Attention: Using Docker in a container (Docker in Docker) as this example intends to demonstrate does not work on netPI any more with netPI's latest software release. Example no more maintained.
 
 Made for [netPI](https://www.netiot.com/netpi/), the Open Edge Connectivity Ecosystem
 
