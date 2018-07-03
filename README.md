@@ -6,7 +6,7 @@ Made for [netPI](https://www.netiot.com/netpi/), the Open Edge Connectivity Ecos
 
 The image provided hereunder deploys a container with installed Docker and Git to be used as container development environment.
 
-Base of this image builds a tagged version of [debian:jessie](https://hub.docker.com/r/resin/armv7hf-debian/tags/) with enabled [SSH](https://en.wikipedia.org/wiki/Secure_Shell), a fully featured [Docker environment](https://www.docker.com/) and [Git](https://git-scm.com/) version control system.
+Base of this image builds a tagged version of [debian:stretch](https://hub.docker.com/r/resin/armv7hf-debian/tags/) with enabled [SSH](https://en.wikipedia.org/wiki/Secure_Shell), a fully featured [Docker environment](https://www.docker.com/) and [Git](https://git-scm.com/) version control system.
 
 #### Container prerequisites
 
